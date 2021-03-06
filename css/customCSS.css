@@ -7,6 +7,10 @@
 	
 }
 
+body {
+	background-color: #ddd; 
+}
+
 .bd-placeholder-img {
 	font-size: 1.125rem;
 	text-anchor: middle;
@@ -33,5 +37,11 @@
 	//-webkit-text-stroke: 1px black;
 }
 
+#aboutUs {
+	height: 90vh;
+	background-image: url('../images/SSLG_135.JPG');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
 
 
