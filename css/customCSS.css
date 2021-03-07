@@ -37,11 +37,57 @@ body {
 	//-webkit-text-stroke: 1px black;
 }
 
-#aboutUs {
+#aboutUsPic {
 	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
 	background-image: url('../images/SSLG_135.JPG');
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
 
+#ourPatronPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: url('../images/stLeoBG.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+#communityPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/SSLG_166.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#evangelizationPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/evangelization.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+#liturgyPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/SSLG_060.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#catechesisPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/SSLG_060.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
