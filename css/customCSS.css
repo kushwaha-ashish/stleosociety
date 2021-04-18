@@ -72,7 +72,7 @@ body {
 	background-repeat: no-repeat;
 }
 
-
+/*
 #liturgyPic {
 	height: 90vh;
 	background-color: rgba(200, 175, 145, 0.5); 
@@ -80,8 +80,18 @@ body {
 		url('../images/SSLG_060.JPG');
 	background-size: cover;
 	background-repeat: no-repeat;
+}*/
+
+#liturgyPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/IMG_6244.JPG');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
+/*
 #catechesisPic {
 	height: 90vh;
 	background-color: rgba(200, 175, 145, 0.5); 
@@ -89,5 +99,13 @@ body {
 		url('../images/SSLG_060.JPG');
 	background-size: cover;
 	background-repeat: no-repeat;
+}*/
 
+#catechesisPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/IMG_6276.JPG');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
