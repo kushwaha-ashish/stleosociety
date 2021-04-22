@@ -119,3 +119,31 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;	
 }
+
+#parishAdminPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/PXL_20210314_192723628.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
+#forPriestsPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/IMG_0000_collage.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#contactusPic {
+	height: 90vh;
+	background-color: rgba(200, 175, 145, 0.5); 
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+		url('../images/PXL_20210314_183400791.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
