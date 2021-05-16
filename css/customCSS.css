@@ -11,17 +11,24 @@ body {
 	background-color: #ddd; 
 }
 
+a.anchor {
+	display: block;
+	position: relative;
+	top: -50px;
+	visibility: hidden;
+}
+
 .bd-placeholder-img {
 	font-size: 1.125rem;
 	text-anchor: middle;
 	-webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
+	-moz-user-select: none;
+	user-select: none;
 }
 
 .carousel-caption {
-    top: 0;
-    left: 0;
+	top: 0;
+	left: 0;
 }
 
 .captionIn {
@@ -59,7 +66,7 @@ body {
 	height: 90vh;
 	background-color: rgba(200, 175, 145, 0.5); 
 	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
-		url('../images/SSLG_166.JPG');
+	url('../images/SSLG_166.JPG');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -68,7 +75,7 @@ body {
 	height: 90vh;
 	background-color: rgba(200, 175, 145, 0.5); 
 	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
-		url('../images/evangelization.jpg');
+	url('../images/evangelization.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -81,16 +88,16 @@ body {
 		url('../images/SSLG_060.JPG');
 	background-size: cover;
 	background-repeat: no-repeat;
-}*/
+	}*/
 
-#liturgyPic {
-	height: 90vh;
-	background-color: rgba(200, 175, 145, 0.5); 
-	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+	#liturgyPic {
+		height: 90vh;
+		background-color: rgba(200, 175, 145, 0.5); 
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
 		url('../images/IMG_6244.JPG');
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
 
 /*
 #catechesisPic {
@@ -100,51 +107,51 @@ body {
 		url('../images/SSLG_060.JPG');
 	background-size: cover;
 	background-repeat: no-repeat;
-}*/
+	}*/
 
-#catechesisPic {
-	height: 90vh;
-	background-color: rgba(200, 175, 145, 0.5); 
-	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+	#catechesisPic {
+		height: 90vh;
+		background-color: rgba(200, 175, 145, 0.5); 
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
 		url('../images/IMG_6276.JPG');
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
 
 
-#parishLifePic {
-	height: 90vh;
-	background-color: rgba(200, 175, 145, 0.5); 
-	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+	#parishLifePic {
+		height: 90vh;
+		background-color: rgba(200, 175, 145, 0.5); 
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
 		url('../images/IMG_6217.JPG');
-	background-size: cover;
-	background-repeat: no-repeat;	
-}
+		background-size: cover;
+		background-repeat: no-repeat;	
+	}
 
-#parishAdminPic {
-	height: 90vh;
-	background-color: rgba(200, 175, 145, 0.5); 
-	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+	#parishAdminPic {
+		height: 90vh;
+		background-color: rgba(200, 175, 145, 0.5); 
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
 		url('../images/PXL_20210314_192723628.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;	
-}
+		background-size: cover;
+		background-repeat: no-repeat;	
+	}
 
-#forPriestsPic {
-	height: 90vh;
-	background-color: rgba(200, 175, 145, 0.5); 
-	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+	#forPriestsPic {
+		height: 90vh;
+		background-color: rgba(200, 175, 145, 0.5); 
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
 		url('../images/IMG_0000_collage.png');
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
 
-#contactusPic {
-	height: 90vh;
-	background-color: rgba(200, 175, 145, 0.5); 
-	background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
+	#contactusPic {
+		height: 90vh;
+		background-color: rgba(200, 175, 145, 0.5); 
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0 40%, rgb(221, 221, 221, 0.2), rgb(221, 221, 221, 1.0)),
 		url('../images/PXL_20210314_183400791.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
+		background-size: cover;
+		background-repeat: no-repeat;
 
-}
+	}
